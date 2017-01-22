@@ -1,8 +1,5 @@
 ## Introduction to GPU Programming using the CUDA Platform
 
-Este repositório contém uma apresentação e recursos sobre programação com a
-Plataforma CUDA.
-
 This repository contains a presentation and resources to help teaching
 GPU Programming with the CUDA Platform.
 
