@@ -1,20 +1,24 @@
-## Introdução à Programação de GPUs com a Plataforma CUDA
+## Introduction to GPU Programming using the CUDA Platform
 
 Este repositório contém uma apresentação e recursos sobre programação com a
 Plataforma CUDA.
 
+This repository contains a presentation and resources to help teaching
+GPU Programming with the CUDA Platform.
+
 ##### ./src
 
-Contém:
+Contents:
 
-- Um *ipython notebook* com implementações da função de Mandelbrot em CUDA Python
-- Exemplos de código em CUDA C, fornecidos pela NVIDIA
-- Exemplos usando *nvprof* e *cuda-memcheck*
+- An *ipython notebook* with a CUDA Python Mandelbrot implementation
+- CUDA C samples, provided by NVIDIA
+- Examples using *nvprof* and *cuda-memcheck*
 
 ##### ./pdf
 
-Contém:
+Contents:
 
-- *Slides* usados nas apresentações
+- *Slides* used in the presentations
+- NVIDIA's Pascal architecture *whitepaper*
 
-Clique [aqui](https://github.com/phrb/intro-cuda-tex) para ir ao repositório com o código fonte das apresentações.
+Click [here](https://github.com/phrb/intro-cuda-tex) for the presentation's source code. 
